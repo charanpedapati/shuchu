@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.yellow:hover {
+  background-color: yellow;
+  color: black;
+}
+
+
+button {
+  margin: 0px 12px;
+}
