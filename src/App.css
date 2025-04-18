@@ -10,6 +10,16 @@
   color: black;
 }
 
+.header {
+  font-size: 4em;
+}
+
+h3 {
+  font-weight: 400;
+  color: grey;
+  letter-spacing: -1px;
+}
+
 
 button {
   margin: 0px 12px;
