@@ -69,7 +69,7 @@ export default function Timer() {
                 disabled={timeLeft === 0}
 
             >
-                {isRunning ? "⏸️ Pause Shūchūing." : "▶️ Start Shūchūing."}
+                {isRunning ? "⏸️ Break Please" : "▶️ Start Studying"}
             </button>
             <button className="button yellow" onClick={resetTimer}>
             ⟳ Reset
